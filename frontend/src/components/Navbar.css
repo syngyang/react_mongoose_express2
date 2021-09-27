@@ -59,7 +59,7 @@
 .hamburger_menu {
     width: 30px;
     height: 30px;
-    display:flex;
+    display:none;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;

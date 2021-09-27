@@ -38,3 +38,9 @@ function App() {
 }
 
 export default App;
+
+// 첫 가동
+// PS D:\react_mongo_express> npm run dev
+
+//> react_mongo_express@1.0.0 dev D:\react_mongo_express
+// > concurrently "npm run server" "npm run client" 

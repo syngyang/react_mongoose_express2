@@ -3,9 +3,9 @@ import Product from '../components/Product';
 
 const HomeScreen = () => {
     return (
-    <div className="homescreen">
-        <h2 className="homescreen_title">Latest Products</h2>
-        <div className="homescreen_products">
+    <div className="home-screen">
+        <h2 className="home-screen_title">Latest Products</h2>
+        <div className="home-screen_products">
             <Product/>
             <Product/>
             <Product/>
